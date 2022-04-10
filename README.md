@@ -1,7 +1,7 @@
 # Package codes
 
 [![go.dev reference](https://img.shields.io/badge/go.dev-reference-007d9c?logo=go&logoColor=white&style=flat-square)](https://pkg.go.dev/github.com/booldesign/codes)
-![Project status](https://img.shields.io/badge/version-1.0.0-green.svg)
+![Project status](https://img.shields.io/badge/version-0.1.0-green.svg)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 
