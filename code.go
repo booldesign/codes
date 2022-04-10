@@ -30,10 +30,10 @@ var unknownCoder = defaultCoder{
 }
 
 type defaultCoder struct {
-	// HTTP status that should be used for the associated error code.
+	// HTTP status
 	HTTP int
 
-	// C refers to the integer code of the ErrCode.
+	// C err code
 	C int
 
 	// error text
