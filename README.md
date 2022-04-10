@@ -24,3 +24,13 @@ MustRegister(coder)
 // 解析 coder
 ParseCoder(err error)
  ```
+
+
+## License
+根据 MIT 许可证分发，请参阅代码中的许可证文件以获取更多详细信息。
+
+## 问题反馈
+
+如果您发现 bug 请及时提 issue，我会尽快确认并修改。
+
+如果觉得对您有用的话，有劳点一下 star⭐，谢谢！
